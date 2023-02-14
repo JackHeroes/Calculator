@@ -12,6 +12,7 @@
     background-color: #B5ACEA;
     border-radius: .5rem;
     box-shadow: 0px 10px 0px 0px #8468EC;
+    margin-bottom: 5rem;
     margin-top: 5rem;
     width: fit-content;
 }
@@ -31,14 +32,9 @@
 }
 
 #time, 
-#date,
-#historic, 
+#date, 
 #display {
     color: #F5F5F5;
-}
-
-#historic {
-    height: 1rem;
 }
 
 #display {

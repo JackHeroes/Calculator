@@ -1,8 +1,6 @@
-
 # Calculator
 
 Calculator made in JavaScript
-
 
 ## Ready-made features
 
@@ -17,4 +15,3 @@ Calculator made in JavaScript
 ## Demonstration
 
 https://calculator-cyan-one.vercel.app/
-
