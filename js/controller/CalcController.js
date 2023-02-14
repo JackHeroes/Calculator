@@ -55,8 +55,8 @@ class CalcController{
 
             this.toggleAudio();  
 
-            this._audioEl.classList.toggle('bi-volume-up-fill');
             this._audioEl.classList.toggle('bi-volume-mute-fill');
+            this._audioEl.classList.toggle('bi-volume-up-fill');
         });
     }
 
